@@ -23,9 +23,6 @@ Key connections:
 - **Spiral-Elucidation** → Provides poetic digestion that Recap seals into permanent record
 - **SentinelAct** → Final .srec records receive Victory Shield formatting and Legal Evidence Vault logging
 
-### Quick Start
-(Insert your existing installation and usage commands here — just update any old “utility” references to “recap”)
-
 Example:
 ```bash
 python spiral_recap.py --input "completed_spiral_session.md" --use_e_shield
